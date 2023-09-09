@@ -431,8 +431,8 @@ namespace Workspace
         //Task 9: Multiple of 3 range from 300 to 3
         static void task9()
         {
-            Console.Write(">> Multiple of 3: ");
-            for (int n = 300; n >= 3; n /= 3)
+            Console.Write(">> Multiple of 3:\t");
+            for (int n = 300; n >= 3; n -= 3)
                 Console.Write(n + "\t");
             Console.WriteLine("");
         }

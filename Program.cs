@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Internal;
+using System;
 
 namespace Workspace
 {
-    class Project
+    class Program
     {
         public static int option(int min, int max)
         {

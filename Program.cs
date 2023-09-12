@@ -1,6 +1,4 @@
-﻿using Internal;
-using System;
-
+﻿using System;
 namespace Workspace
 {
     class Program

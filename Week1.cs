@@ -9,7 +9,7 @@ namespace Workspace
             Console.WriteLine("---");
             while (true)
             {
-                switch (Project.option(0, 13))
+                switch (Program.option(0, 13))
                 {
                     case 1:
                         task1();
